@@ -5,13 +5,16 @@ menu_title: Home
 menu_icon: house-door
 ---
 
+<center>
+    <img src='assets/banner2.png'>
+</center>
 
 {:.secondary}
 # {{ site.event_date }}
 
 <!-- REMOVE THIS SECTION when you use this template -->
 <div class="lead" markdown="1">
-Welcome to the LLM March Madness Materials / Chemistry Hackathon, a virtual hackathon designed to explore and showcase innovative applications of large language models in the fields of materials science and chemistry. Participants from diverse backgrounds, including scientists, engineers, developers, and students, will come together to leverage the power of AI to address complex challenges and unlock new frontiers in these rapidly evolving domains.
+LLM Hackathon for Applications in Materials and Chemistry, a virtual hackathon designed to explore and showcase innovative applications of large language models in the fields of materials science and chemistry. Participants from diverse backgrounds, including scientists, engineers, developers, and students, will come together to leverage the power of AI to address complex challenges and unlock new frontiers in these rapidly evolving domains.
 </div>
 <!-- END of section to remove -->
 
@@ -52,6 +55,8 @@ Join us for the excitement of innovation, collaboration, and discovery as we pus
 The event will take place virtually, using a combination of **video
 conferencing** (Zoom) for meetings and seminars, and **discussion forums**
 (Slack, Miro). Slack, Miro, and Zoom links will be shared upon registration. 
+
+In parallel, there will be a series of on-site events at locations around the world. These events will be organized by local hosts and will be connected to the main event via video conferencing. You can find a list of local events on the [Local Events](/local_events) page.
 
 ## Prizes
 

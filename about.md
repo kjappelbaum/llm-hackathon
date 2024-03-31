@@ -27,21 +27,6 @@ To contact us about the hackathon, please contact us on Twitter or Slack. -->
     </tr>
     <tr>
         <td>
-            <img alt="Andrew White" src="https://pbs.twimg.com/profile_images/1610864530216591361/9_HA-bt8_400x400.jpg">
-        </td>
-        <td>
-            <strong>Andrew White</strong>
-             <span class="profile-links">
-                <a title="Website" href="https://thewhitelab.org/"><i class="bi bi-globe2"></i></a>
-                <a title="GitHub" href="https://github.com/whitead"><i class="bi bi-github"></i></a>
-                <a title="Twitter" href="https://twitter.com/andrewwhite01"><i class="bi bi-twitter"></i></a>
-            </span>
-            <br>University of Rochester, Vial
-            <br>Professor, VP of AI
-        </td>
-    </tr>
-    <tr>
-        <td>
             <img alt="Kevin Jablonka" src="../assets/kevin.jpg">
         </td>
         <td>
@@ -51,8 +36,8 @@ To contact us about the hackathon, please contact us on Twitter or Slack. -->
                 <a title="GitHub" href="https://github.com/kjappelbaum"><i class="bi bi-github"></i></a>
                 <a title="Twitter" href="https://twitter.com/kmjablonka"><i class="bi bi-twitter"></i></a>
             </span>
-            <br>EPFL
-            <br>PhD Student
+            <br>Helmholtz Institute for Polymers in Energy Applications
+            <br>Group Leader
         </td>
     </tr>
     <tr>
